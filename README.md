@@ -19,4 +19,5 @@
 [Web Platform tests](https://github.com/w3c/web-platform-tests)  
 [CSS WG tests and Test Harness](https://test.csswg.org/harness/)  
 [http://testthewebforward.org/](http://testthewebforward.org/)  
-[Kangax compatibility tables](https://kangax.github.io/compat-table/es6/)
+[Kangax compatibility tables](https://kangax.github.io/compat-table/es6/)  
+[Microsoft’s platform visualizer](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/)
