@@ -10,7 +10,7 @@
 [Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/)  
 [Mozilla](https://platform-status.mozilla.org/)
   
-#### usage of certain features
+#### Usage of certain features:
 [Microsoft’s measured feature popularity](https://developer.microsoft.com/en-us/microsoft-edge/platform/usage/)  
 [Chrome’s measured CSS popularity](https://www.chromestatus.com/metrics/css/popularity)  
 [Chrome’s measured JS popularity](https://www.chromestatus.com/metrics/feature/popularity)  
